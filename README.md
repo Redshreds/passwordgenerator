@@ -6,4 +6,4 @@ My goal is to create a random password generator with the ability for the user t
 
 Link to deployed Page: https://redshreds.github.io/passwordgenerator
 
-![screenshotofapp](https://imgur.com/a/gs50TRw)
+![screenshotofapp](assets\images\passwordgen.jpg)
